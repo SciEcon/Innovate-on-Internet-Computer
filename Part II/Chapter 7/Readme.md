@@ -11,9 +11,11 @@ GitHub Repository: [[URL](https://github.com/Crinstaniev/phonebook-ic)]
 
 YouTube Documentary: [[URL](https://youtu.be/9YjRNba9O0s)]
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YjRNba9O0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<p align="center">
+    <img src="https://img.youtube.com/vi/9YjRNba9O0s/0.jpg" href="https://www.youtube.com/watch?v=9YjRNba9O0s"/>
+    </br>
+    YouTube Documentary
+</p>
 
 ## I. Project Overview
 

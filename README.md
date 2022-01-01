@@ -1,4 +1,5 @@
 # Innovate-on-Internet-Computer
+[![DOI](https://zenodo.org/badge/377849470.svg)](https://zenodo.org/badge/latestdoi/377849470)
 
 <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="140" height="198"/>
 

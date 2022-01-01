@@ -30,5 +30,10 @@
 - [PubPub](https://ic.pubpub.org/pub/g4dcgpv7)
 
 # [PART I: Pipeline](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20I)
+## Chapter 1 Prepare Workplaces
+## Chapter 2 Deploy Applications: A Comparative Study
+## Chapter 3 Program Backends: A Comparative Study
+## Chapter 4 Build Frontend User Interfaces
+## Chapter 5 Guide to Innovate
 # [PART II: Student Case Study](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20II)
 # [PART III: AMA Interviews](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20III)

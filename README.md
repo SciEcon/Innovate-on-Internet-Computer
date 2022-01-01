@@ -64,7 +64,7 @@
 ## Chapter 20 A Glance into Liquity
 ## Chapter 21 The Future of Cryptocurrency: Insights from Mr. Charles Du
 ## Chapter 22 How to Realize Options Trading in Decentralized Finance
-# [Resources]
-## [GitHub Repositories](https://sunshine1.pressbooks.com/chapter/github-repositories/)
-## [Media](https://sunshine1.pressbooks.com/chapter/media/)
-## [YouTube Playlist](https://youtube.com/playlist?list=PL5U5e_9Mb2zXa0chganwDKsDTXZsxZzwv)
+# [Resources](https://ic.pubpub.org/resources)
+- [GitHub Repositories](https://sunshine1.pressbooks.com/chapter/github-repositories/)
+- [Media](https://sunshine1.pressbooks.com/chapter/media/)
+- [YouTube Playlist](https://youtube.com/playlist?list=PL5U5e_9Mb2zXa0chganwDKsDTXZsxZzwv)

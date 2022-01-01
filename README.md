@@ -29,6 +29,6 @@
 - [pressbook](https://sunshine1.pressbooks.com/front-matter/introduction/)
 - [PubPub](https://ic.pubpub.org/pub/g4dcgpv7)
 
-# [PART I](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20I)
-# [PART II](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20II)
-# [PART III](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20III)
+# [PART I: Pipeline](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20I)
+# [PART II: Student Case Study](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20II)
+# [PART III: AMA Interviews](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20III)

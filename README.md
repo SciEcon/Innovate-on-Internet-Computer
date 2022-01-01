@@ -7,13 +7,7 @@
 - Ebook ISBN: 978-1-7923-8394-6
 - [Website](https://ic.pubpub.org/)
 - [Pressbook](https://sunshine1.pressbooks.com/)
-
-<p align="center">
-    <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="128" height="148"/>
-    </a>
-    </br>
-    YouTube Documentary
-</p>
+<img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="140" height="198"/>
 
 # [Front matter](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/FrontMatter) 
 

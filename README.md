@@ -9,7 +9,7 @@
 - [Pressbook](https://sunshine1.pressbooks.com/)
 
 <p align="center">
-    <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" />
+    <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="128" height="148"/>
     </a>
     </br>
     YouTube Documentary

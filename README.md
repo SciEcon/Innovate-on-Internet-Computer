@@ -46,4 +46,25 @@
 - [pressbook](https://sunshine1.pressbooks.com/chapter/__unknown__-5/)
 - [PubPub](https://ic.pubpub.org/pub/m4tuyovh)
 # [PART II: Student Case Study](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20II)
+## Chapter 6 The Phonebook
+## Chapter 7 WaterPark: A Decentralized Borrowing Protocol for the Internet Computer
+## Chapter 8 ICy: A Decentralized Lending Protocol on the Internet Computer
+## Chapter 9 Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer
+## Chapter 10 Towards Decentralized Protocols: Call for Collaborations
 # [PART III: AMA Interviews](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20III)
+## Chapter 11 How will DeFi Reshape the Future of Finance?
+## Chapter 12 Insights on consensus in the presence of synchrony
+## Chapter 13 On the Mechanics of Blockchain Security
+## Chapter 14 Token Economies: When Macro and Micro Economics Unite in Finance
+## Chapter 15 The Future of Consensus: Algorithm on Blockchain 
+## Chapter 16 Towards Incentivized Decentralization: The Future of Blockchain
+## Chapter 17 Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta 
+## Chapter 18 On Ethereum: Yin and Yang
+## Chapter 19 A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction
+## Chapter 20 A Glance into Liquity
+## Chapter 21 The Future of Cryptocurrency: Insights from Mr. Charles Du
+## Chapter 22 How to Realize Options Trading in Decentralized Finance
+# [Resources]
+## [GitHub Repositories](https://sunshine1.pressbooks.com/chapter/github-repositories/)
+## [Media](https://sunshine1.pressbooks.com/chapter/media/)
+## [YouTube Playlist](https://youtube.com/playlist?list=PL5U5e_9Mb2zXa0chganwDKsDTXZsxZzwv)

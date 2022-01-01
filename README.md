@@ -9,8 +9,7 @@
 - [Pressbook](https://sunshine1.pressbooks.com/)
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=9YjRNba9O0s">
-    <img src="https://img.youtube.com/vi/9YjRNba9O0s/0.jpg" />
+    <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" />
     </a>
     </br>
     YouTube Documentary

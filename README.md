@@ -5,6 +5,8 @@
 - Serie Number: 1
 - DOI: 10.21428/bfffc129.db13dd8d
 - Ebook ISBN: 978-1-7923-8394-6
+- [Website](https://ic.pubpub.org/)
+- [Pressbook](https://sunshine1.pressbooks.com/)
 
 # [Front matter](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/FrontMatter) 
 # [PART I](https://github.com/SciEcon/Innovate-on-Internet-Computer/tree/main/Part%20I)

@@ -1,11 +1,12 @@
-# Innovate-on-Internet-Computer [![DOI](https://zenodo.org/badge/377849470.svg)](https://zenodo.org/badge/latestdoi/377849470)
-<img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="140" height="198"/>
+# Innovate on the Internet Computer 
+[![DOI](https://zenodo.org/badge/377849470.svg)](https://zenodo.org/badge/latestdoi/377849470)
 
 - Title: Innovate on the Internet Computer 
 - Series Title: Industry 4.0 Open Educational Resources 
 - Serie Number: 1
 - DOI: 10.21428/bfffc129.db13dd8d
 - Ebook ISBN: 978-1-7923-8394-6
+- <img src="https://github.com/SciEcon/Innovate-on-Internet-Computer/blob/main/Innovate%20on%20the%20Internet%20computer.png" width="140" height="198"/>
 - [Website](https://ic.pubpub.org/)
 - [Pressbook](https://sunshine1.pressbooks.com/)
 
